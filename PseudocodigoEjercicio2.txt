@@ -1,0 +1,7 @@
+Algoritmo EjercicioDos
+	Escribir "Ingresar un numero"
+	Leer varNumero
+	Para i=varNumero Hasta 1 Hacer
+		Escribir i
+	FinPara
+FinAlgoritmo
